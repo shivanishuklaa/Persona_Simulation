@@ -1,0 +1,7 @@
+streamlit
+google-generativeai
+python-dotenv
+google-genai
+langchain 
+langchain-google-genai
+scikit-learn
